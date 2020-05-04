@@ -1,7 +1,7 @@
 # Hackathon languages comparison
 > https://www.craigstuntz.com/posts/2020-03-09-equality-is-hard.html
 
-Remember one of the laws for equals comparisons is that they should be transitive: `if a = b and b = c then a = c`.
+<!-- Remember one of the laws for equals comparisons is that they should be transitive: `if a = b and b = c then a = c`.
 Unfortunately, when coupled with **type coersion**, languages often fail at this.
 
 In JavaScript,
@@ -12,7 +12,7 @@ In JavaScript,
 '' == '0';    // false!
 ```
 
-Never use `==` in JavaScript. Use `===` instead.
+Never use `==` in JavaScript. Use `===` instead. -->
 
 # JavaScript
 
